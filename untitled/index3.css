@@ -1,0 +1,21 @@
+body {
+    background: gray;
+    margin: 0px;
+}
+.white {
+    background: white;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.blue {
+    background: #0039A6;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.red {
+    background: #D52B1E;
+    height: 100px;
+}
